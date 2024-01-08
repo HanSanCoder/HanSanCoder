@@ -15,7 +15,8 @@
 <a title="zhihu" target="_blank" herf="https://wwww.zhihu.com/people/hehansan"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fhehansan&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+follower&longCache=true"></a>
 -->
 
-[<img src="https://img.shields.io/badge/Blog-FF4081"/>](https://hhsblog.cn) 
+[<img src="https://img.shields.io/badge/Blog-FF4081"/>](https://my.gintama.love)  
+[<img src="https://img.shields.io/badge/Homepage-FF4081"/>](https://gintama.love)
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=HanSanCoder&count_private=true&icon_color=38bdae&title_color=38bdae&show_icons=true&hide_border=true&theme=transparent" alt="HanSanCoder's github stats" /> <br/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanSanCoder&layout=compact&icon_color=38bdae&title_color=38bdae&hide=javascript,html&hide_border=true&theme=transparent&langs_count=5" /> | ![HanSanCoder's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HanSanCoder&title_color=38bdae&range=all_time&layout=compact&theme=transparent)
 | ------------- | ------------- |
 
